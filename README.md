@@ -27,4 +27,4 @@ I'm Michael, a Front-End Developer working in Manchester :uk:, UK.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## stats :dart:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Hutchinson&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Hutchinson&layout=compact&theme=cobalt&exclude_repo=leeds-tourism)
